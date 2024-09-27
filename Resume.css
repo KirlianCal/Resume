@@ -1,0 +1,65 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+img{
+    float: right;
+}
+.EducationTable{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 10px;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+.EducationTable th{
+    padding: 15px;
+    border: 1px solid black;
+}
+.EducationTable td{
+    font-size: 15px;
+    height: 20px;
+    border: 1px solid black;
+}
+th{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+td{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;    
+}
+h3{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+hr{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+p{
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin: 5px;
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-bottom: 5px;
+}
+li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 1px;
+}
+ul{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 1px;
+}
